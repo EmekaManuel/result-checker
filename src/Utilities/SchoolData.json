@@ -1,0 +1,65 @@
+[
+
+    {"faculty_id": "1", "sortname": "Engine", "faculty_name": "Faculty of Engineering", "departments": [
+        {
+            "department_id": "10", "department_name": "Department Of Mechanical Engineering", "faculty_id": "1"
+        },
+        {
+            "department_id": "11", "department_name": "Department Of Electrical Engineering", "faculty_id": "1"
+        },
+        {
+            "department_id": "12", "department_name": "Department Of Electronics Engineering", "faculty_id": "1"
+        },
+        {
+            "department_id": "13", "department_name": "Department Of Mechatronics Engineering", "faculty_id": "1"
+        },
+        {
+            "department_id": "14", "department_name": "Department Of Computer Engineering", "faculty_id": "1"
+        },
+        {
+            "department_id": "15", "department_name": "Department Of Bioresource Engineering", "faculty_id": "1"
+        }
+
+    ]},
+
+    {"faculty_id": "2", "sortname": "Arts", "faculty_name": "Faculty of Arts", "departments": [
+        {
+            "department_id": "16", "department_name": "Department Of Linguistics", "faculty_id": "2"
+        },
+        {
+            "department_id": "17", "department_name": "Department Of African Studies", "faculty_id": "2"
+        },
+        {
+            "department_id": "18", "department_name": "Department Of Creative Arts", "faculty_id": "2"
+        },
+        {
+            "department_id": "18", "department_name": "Department Of Philosophy", "faculty_id": "2"
+        },
+        {
+            "department_id": "19", "department_name": "Department Of History", "faculty_id": "2"
+        }
+       
+    ]},
+
+    {"faculty_id": "3", "sortname": "Medicine", "faculty_name": "Faculty of Medicine", "departments": [
+        
+        {
+            "department_id": "20", "department_name": "Department Of Radiology", "faculty_id": "3"
+        },
+        {
+            "department_id": "21", "department_name": "Department Of Urology", "faculty_id": "3"
+        },
+        {
+            "department_id": "22", "department_name": "Department Of Dermatology", "faculty_id": "3"
+        },
+        {
+            "department_id": "23", "department_name": "Department Of Neurology", "faculty_id": "3"
+        },
+        {
+            "department_id": "24", "department_name": "Department Of Oncology", "faculty_id": "3"
+        }
+       
+    ]}
+
+
+]
